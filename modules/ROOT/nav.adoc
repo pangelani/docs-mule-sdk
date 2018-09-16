@@ -1,4 +1,5 @@
 .xref:index.adoc[Mule SDKs]
+* xref:index.adoc[About Mule SDKs]
 * xref:getting-started.adoc[Java SDK]
  ** xref:choosing-version.adoc[Choosing the SDK version]
  ** xref:module-structure.adoc[Module Structure]
